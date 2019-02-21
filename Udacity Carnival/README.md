@@ -4,6 +4,8 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Course: Introduction to Virtual Reality
 - Project: Udacity Carnival
 
+## Summary
+This is Udacity Carnival project completed by Koji Shiono. 
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
