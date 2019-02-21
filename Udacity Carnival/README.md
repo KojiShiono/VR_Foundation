@@ -5,7 +5,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Project: Udacity Carnival
 
 ## Summary
-This is Udacity Carnival project completed by Koji Shiono. 
+This is Udacity Carnival project completed by Koji Shiono. Since this project only involved changes in pre-existing values, analysis section is ommitted.
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
